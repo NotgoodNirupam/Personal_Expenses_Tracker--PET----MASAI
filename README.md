@@ -79,9 +79,9 @@ o	Ensure all dates follow the format "%Y-%m-%d %H:%M:%S".
 o	If expenses.json becomes unreadable, delete or fix it manually. The app will recreate the file.
 ________________________________________
 Future Enhancements
-•	Add graphical visualizations for expense trends.
-•	Support multiple user profiles.
-•	Cloud-based storage for syncing across devices.
+1.	Add graphical visualizations for expense trends.
+2.Support multiple user profiles.
+3.Cloud-based storage for syncing across devices.
 ________________________________________
 Contribution
 Contributions are welcome! Please fork the repository and submit a pull request for review.
