@@ -83,7 +83,6 @@ Future Enhancements
 2.Support multiple user profiles.
 3.Cloud-based storage for syncing across devices.
 ________________________________________
-Contribution
 Contributions are welcome! Please fork the repository and submit a pull request for review.
 ________________________________________
 Contact
