@@ -74,7 +74,7 @@ o	Verify email credentials and SMTP settings.
 o	Use an App Password if using Gmail.
 o	Ensure network or firewall isn't blocking SMTP traffic.
 2.	Date Parsing Issues:
-o	Ensure all dates follow the format "%Y-%m-%d %H:%M:%S".
+o	Ensure all dates follow the format "%Y-%m-%d".
 3.	JSON File Corruption:
 o	If expenses.json becomes unreadable, delete or fix it manually. The app will recreate the file.
 ________________________________________
